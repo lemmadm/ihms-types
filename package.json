@@ -1,0 +1,20 @@
+{
+  "name": "@ihms/types",
+  "version": "1.0.0",
+  "description": "Shared TypeScript types for IHMS Provider Manager",
+  "main": "index.ts",
+  "types": "index.ts",
+  "files": [
+    "*.ts"
+  ],
+  "scripts": {
+    "build": "tsc --noEmit"
+  },
+  "keywords": [
+    "ihms",
+    "types",
+    "typescript"
+  ],
+  "author": "IHMS",
+  "license": "MIT"
+}
